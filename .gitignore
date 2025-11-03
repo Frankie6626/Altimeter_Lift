@@ -1,0 +1,13 @@
+# Build files for C/C++
+build/
+*.o
+*.bin
+*.hex
+*.elf
+
+# KiCad backup files
+*-cache.lib
+
+# Common OS/IDE files
+.DS_Store
+.vscode/
